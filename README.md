@@ -1,5 +1,5 @@
 # Puppeteer Linked List 
-------
+
 **Simple Linked List with [Puppeteer](https://pptr.dev/) Puppeteer scraping a website to get posts.**
 
 ![Powershell](https://i.imgur.com/YnuWe2d.gif)
