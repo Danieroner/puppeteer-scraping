@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+      "resolveJsonModule": true,
+      "target": "es5",
+      "module": "commonjs",
+      "sourceMap": true,
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "strict": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "downlevelIteration": true
+
+  },
+  "exclude": ["./test/**/*.spec.ts"]
+}
