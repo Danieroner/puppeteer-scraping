@@ -1,4 +1,4 @@
 export interface Movie {
-    title: string;
-    link: Array<string>;
+  title: string;
+  link: Array<string>;
 }
